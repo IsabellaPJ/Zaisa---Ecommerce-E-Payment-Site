@@ -1,8 +1,8 @@
 # Zaisa---Ecommerce-E-Payment-Site
 
 ## Functional Description:
-Client side – Email verification, View order
-Server side – Signup and Login, Zpay, Customer care, Product details, Account details, shopping details.
+###Client side – Email verification, View order
+###Server side – Signup and Login, Zpay, Customer care, Product details, Account details, shopping details.
 
 ## Details of Database Tables:
 login – for sign in with valid data entries and for adding sign up data.
